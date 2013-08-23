@@ -30,7 +30,6 @@ Add the `poll.server.php` to your server file
 
 Basic usage - Client
 --------------------------------------
-Create a new `Poll` object in you
 ```html
 <script type="text/javascript">
     // create a new Poll object
