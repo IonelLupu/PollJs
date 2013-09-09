@@ -1,7 +1,7 @@
 PollJs
 ======
 
-Simple Long Polling script
+Simple AJAX Long Polling Library
 
 Examples
 --------------------------------------
